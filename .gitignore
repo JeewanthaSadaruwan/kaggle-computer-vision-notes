@@ -1,6 +1,6 @@
 # Dataset folder
 data/
-Dataset/
+dataset/
 
 # Python virtual environment
 .venv/
